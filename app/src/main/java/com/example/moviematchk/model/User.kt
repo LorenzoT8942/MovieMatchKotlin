@@ -1,4 +1,4 @@
-package com.example.moviematchk
+package com.example.moviematchk.model
 
 class User (username: String, password: String){
     val username: String = ""
